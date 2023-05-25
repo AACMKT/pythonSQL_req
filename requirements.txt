@@ -1,0 +1,2 @@
+PySimpleGUI~=4.60.5
+psycopg2~=2.9.6
